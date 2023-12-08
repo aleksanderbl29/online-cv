@@ -3,56 +3,53 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Aleksander Bang-Larsen
+    tagline: stud.scient.pol
+    avatar: cv-billede.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: kontakt-cv@aleksanderbl.dk
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: aleksanderbl.dk #do not add http://
+    linkedin: aleksanderbl
+    xing:
+    github: aleksanderbl29
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@bang_aleksander'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
-      title: Languages
+      title: Sprog
       info:
-        - idiom: English
-          level: Native
+        - idiom: Dansk
+          level: Modersmål
 
-        - idiom: French
-          level: Professional
+        - idiom: Engelsk
+          level: Flydende
 
-        - idiom: Spanish
-          level: Professional
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
     title: Career Profile
@@ -64,8 +61,14 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Uddannelse
     info:
+      - degree: Bachelor i Statskundskab
+        university: Aarhus Universitet
+        time: 2021-2024
+        details: |
+          Jeg er i gang med min bachelor i statskundskab på Aarhus Universitet.
+          Mine primære interesser er kvantitative metoder og vælgeradfærd.
       - degree: MSc in Computer Science
         university: University of London
         time: 2011 - 2012
