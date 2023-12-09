@@ -146,7 +146,7 @@ oss:
   intro: >
     Udover mine studier bruger jeg tid på at bidrage til et par
      open source projekter. Det er primært projekter jeg benytter
-     mig af. Bidrager med lokalisering, betatestning og vedligeholdelse.
+     mig af. Bidrager primært med lokalisering, betatestning og vedligeholdelse.
   contributions:
     - title: Stats
       link: "https://github.com/exelban/stats"
