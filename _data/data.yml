@@ -11,33 +11,33 @@ sidebar:
 
   # Sidebar
   email: kontakt-cv@aleksanderbl.dk
-  phone: +45 4252 1513
+  phone:
   timezone:
   citizenship: Danmark
-  website: cv.aleksanderbl.dk    # do not add http://
+  website: aleksanderbl.dk    # do not add http://
   linkedin: aleksanderbl
   xing:
   github: aleksanderbl29
   telegram:    # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  # twitter: '@bang_aleksander'
+  twitter: '@bang_aleksander'
   stack-overflow:    # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads:    # Number-Username, e.g. 123456-alandoe
   pdf:
 
-  # languages:
-  #   title: Sprog
-  #   info:
-  #     - idiom: Dansk
-  #       level: Modersmål
+  languages:
+    title: Sprog
+    info:
+      - idiom: Dansk
+        level: Modersmål
 
-  #     - idiom: Engelsk
-  #       level: Flydende
+      - idiom: Engelsk
+        level: Flydende
 
-  #     - idiom: Fransk
-  #       level: DELF A2
+      - idiom: Fransk
+        level: DELF A2
 
   # interests:
   #   title: Interesser
