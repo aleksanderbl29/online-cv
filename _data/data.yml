@@ -183,10 +183,10 @@ skills:
       level: 90%
 
     - name: R
-      level: 60%
+      level: 80%
 
     - name: SQL
-      level: 75%
+      level: 30%
 
     # - name: HTML & CSS
     #   level: 20%
